@@ -1,0 +1,15 @@
+.env
+*.env
+!.env.example
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.spec
+logs/*.log
+logs/*.csv
+ovl_settings.json
+ovl_daily_state.json
+.vscode/
+.idea/
+.DS_Store
